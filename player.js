@@ -278,8 +278,8 @@ var player = new Player([
     howl: null
   },
   {
-    title: '开不了口',
-    file: '开不了口',
+    title: '手放开',
+    file: '手放开',
     howl: null
   },
 ]);
