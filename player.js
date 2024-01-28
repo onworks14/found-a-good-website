@@ -268,25 +268,20 @@ Player.prototype = {
 // Setup our new audio player class and pass it the playlist.
 var player = new Player([
   {
-    title: 'What lovers Do',
-    file: 'what_lovers_do',
+    title: '开不了口',
+    file: '开不了口',
     howl: null
   },
   {
-    title: 'Signs',
-    file: 'signs',
+    title: '秘密',
+    file: '秘密',
     howl: null
   },
   {
-    title: 'Payphone',
-    file: 'payphone',
+    title: '开不了口',
+    file: '开不了口',
     howl: null
   },
-  {
-    title: 'Where are Ü Now',
-    file: 'where_are_you_now',
-    howl: null
-  }
 ]);
 
 // Bind our player controls.
