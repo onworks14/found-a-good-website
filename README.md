@@ -1,4 +1,4 @@
-# Audio Player
+# Howler.js Audio Player
 
 ## Wiki:
 ### WebM is a video format used mostly for streaming high-quality videos online. It contains audio and video, among other files. MP3 only contains audio
