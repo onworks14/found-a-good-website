@@ -282,6 +282,11 @@ var player = new Player([
     file: '手放开',
     howl: null
   },
+  {
+    title: '情人',
+    file: '情人',
+    howl: null
+  },
 ]);
 
 // Bind our player controls.
