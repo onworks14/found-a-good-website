@@ -221,6 +221,9 @@ body {
   top: 50%;
   left: 0;
   margin: -180px auto;
+  overflow-y: auto;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
 }
 .list-song {
   width: 100%;
